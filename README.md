@@ -7,9 +7,9 @@
   <a href="https://jsanz.dev">
     <img alt="Jsanz.dev" title="Jsanz.dev" src="https://img.shields.io/badge/web-jsanz.dev-D65B38?style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/jsanz_dev">
+<!--   <a href="https://twitter.com/jsanz_dev">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jsanz_dev?label=Twitter&logo=Twitter&style=for-the-badge">
-  </a>
+  </a> -->
   <a href="https://github.com/jsanzdev">
     <img alt="Github" title="Github" src="https://img.shields.io/github/followers/jsanzdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
   </a>
